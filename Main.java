@@ -17,7 +17,7 @@ for (int i = 0; i <= myArray.length - 1; i++) {
 }
 
 Collections.sort(Numbers);
-return (Numbers.get(Numbers.size() - 5));
+return (Numbers.get(Numbers.size() - 1));
     }
 
 }
